@@ -1,9 +1,0 @@
-[submodule "DXBallGame"]
-	path = DXBallGame
-	url = https://github.com/thoth-tech/DXBallGame
-[submodule "below-the-surface"]
-	path = below-the-surface
-	url = https://github.com/thoth-tech/below-the-surface
-[submodule "asteroids"]
-	path = asteroids
-	url = https://github.com/thoth-tech/asteroids
