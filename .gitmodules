@@ -1,0 +1,6 @@
+[submodule "gravity-sim"]
+	path = gravity-sim
+	url = https://github.com/thoth-tech/gravity-sim
+[submodule "venture-adventure"]
+	path = venture-adventure
+	url = https://github.com/thoth-tech/venture-adventure/
