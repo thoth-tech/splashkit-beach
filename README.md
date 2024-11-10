@@ -1,3 +1,5 @@
+# SplashKit Beach
+
 <p align="left">
     <img width="150px" src="https://github.com/thoth-tech/.github/blob/main/images/splashkit.png"/>
 </p>
@@ -7,8 +9,6 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/thoth-tech/splashkit-beach?label=Pull%20Requests&color=F5A623)](https://github.com/thoth-tech/splashkit-beach/pulls)
 [![Forks](https://img.shields.io/github/forks/thoth-tech/splashkit-beach?label=Forks&color=F5A623)](https://github.com/thoth-tech/splashkit-beach/network/members)
 [![Stars](https://img.shields.io/github/stars/thoth-tech/splashkit-beach?label=Stars&color=F5A623)](https://github.com/thoth-tech/splashkit-beach/stargazers)
-
-# SplashKit Beach
 
 **SplashKit Beach** is a collection of games made with the SplashKit SDK, designed for use with the **Arcade Machine**. This repository serves as a central hub, linking to individual game repositories and providing access to both stable and development versions of community-created games.
 
